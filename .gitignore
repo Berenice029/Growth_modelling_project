@@ -219,5 +219,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-#Ajout Bere
+# Ajout Bere
 /berenice/data
+/berenice/cleaned_data

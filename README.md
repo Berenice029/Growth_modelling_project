@@ -1,5 +1,5 @@
 # Growth_modelling_project
-Data cleaning logs: 
+Data cleaninglogs: 
 ## 1. CUstomers:
 There are 30 Internal accounts/ Test accouonts. After cleaning these accounts the number of records passed from 24662 to 24632.
 ## 2. cleaners

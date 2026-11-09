@@ -218,8 +218,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# Ajout Bere
-/berenice/data
-/berenice/cleaned_data
-/berenice/notebook.ipynb
